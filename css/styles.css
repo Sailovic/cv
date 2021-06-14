@@ -1,6 +1,6 @@
 body {
-  background-color: #e5b299;
-  background-image: linear-gradient(#e5b299, white);
+  background-color: #FFC0CB;
+  background-image: linear-gradient(#FFC0CB, white);
   margin: 0;
   text-align: center;
   font-family: 'Roboto', sans-serif;
@@ -96,7 +96,7 @@ h2 {
 }
 
 .bottom-container{
-  background-color: #e28f83;
+  background-color: #FFB6C1;
   margin-bottom: 0;
   padding: 50px 0 20px;
 }
